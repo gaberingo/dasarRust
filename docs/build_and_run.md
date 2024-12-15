@@ -3,17 +3,17 @@
 ## Command `cargo build`
 Digunakan untuk mem-build kode program dengan output file binary
 - Untuk pengguna windows :
-```bash
-cargo build
-cd target/debug
-nama_file.exe
-```
+    ```bash
+    cargo build
+    cd target/debug
+    nama_file.exe
+    ```
 - Untuk pengguna linux :
-```bash
-cargo build
-cd target/debug
-./nama_file
-```
+    ```bash
+    cargo build
+    cd target/debug
+    ./nama_file
+    ```
 
 ## Optimized build
 Untuk distribution/production disarankan untuk generate *optimized* binary dengan menambahkan flag `--release` pada saat build `cargo build`
@@ -34,12 +34,12 @@ fn main(){
 ```
 
 - Untuk pengguna linux :
-```bash
-rustc hello.rs
-./hello
-```
+    ```bash
+    rustc hello.rs
+    ./hello
+    ```
 - Untuk pengguna windows :
-```bash
-rustc hello.rs
-hello.exe
-```
+    ```bash
+    rustc hello.rs
+    hello.exe
+    ```
