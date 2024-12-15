@@ -25,11 +25,9 @@ cargo build --release
 ## Command `rustc`
 Untuk kompilasi program rust bisa juga menggunakan `rustc`.
 Sebagai contoh kita akan kompile file `hello.rs`
-<div style="background-color: #2b2d42; color: #8d99ae; padding: 5px;">
-    hello.rs
-</div>
 
 ```rust
+//hello.rs
 fn main(){
     println!("Hello Rust")
 }
