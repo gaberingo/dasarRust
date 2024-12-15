@@ -1,4 +1,4 @@
 # Dasar dasar Pemrograman Rust
 Repo ini dibuat untuk membantu penulis mempelajari dasar dasar Pemrograman Rust
 
-### [Build dan Run Program Rust](https://github.com/gaberingo/dasarRust)
+### [Build dan Run Program Rust](https://github.com/gaberingo/dasarRust/blob/main/build_and_run/build_and_run.md)
