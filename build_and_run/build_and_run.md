@@ -27,7 +27,7 @@ Untuk kompilasi program rust bisa juga menggunakan `rustc`.
 Sebagai contoh kita akan kompile file `hello.rs`
 
 ```rust
-//hello.rs
+// hello.rs
 fn main(){
     println!("Hello Rust")
 }
