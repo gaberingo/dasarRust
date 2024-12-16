@@ -6,3 +6,4 @@ Repo ini dibuat untuk membantu penulis mempelajari dasar dasar Pemrograman Rust
 ### [Varibel](https://github.com/gaberingo/dasarRust/blob/main/docs/variabel.md)
 ### [Tipe Data -> Primitive Scalar](https://github.com/gaberingo/dasarRust/blob/main/docs/primitive_scalar.md)
 ### [Tipe Data -> String Literal](https://github.com/gaberingo/dasarRust/blob/main/docs/string_literal.md)
+### [Konstanta](https://github.com/gaberingo/dasarRust/blob/main/docs/konstanta.md)
