@@ -41,7 +41,7 @@ Bisa dilihat pada kode penulisan string dilakukan dari bagian paling kiri, jika 
 
     println!("{}", var_string);
 ```
-maka hasilnya akan seperti ini
+maka hasilnya akan seperti ini\n
 ![multiline string 2](multiline_str2.png)
 
 ### Raw string
