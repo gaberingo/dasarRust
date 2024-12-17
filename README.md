@@ -8,3 +8,4 @@ Repo ini dibuat untuk membantu penulis mempelajari dasar dasar Pemrograman Rust
 ### [Tipe Data -> String Literal](https://github.com/gaberingo/dasarRust/blob/main/docs/string_literal.md)
 ### [Konstanta](https://github.com/gaberingo/dasarRust/blob/main/docs/konstanta.md)
 ### [Operator](https://github.com/gaberingo/dasarRust/blob/main/docs/operator.md)
+### [If, Else If, Else](https://github.com/gaberingo/dasarRust/blob/main/docs/if_else.md)
