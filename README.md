@@ -9,3 +9,4 @@ Repo ini dibuat untuk membantu penulis mempelajari dasar dasar Pemrograman Rust
 ### [Konstanta](https://github.com/gaberingo/dasarRust/blob/main/docs/konstanta.md)
 ### [Operator](https://github.com/gaberingo/dasarRust/blob/main/docs/operator.md)
 ### [If, Else If, Else](https://github.com/gaberingo/dasarRust/blob/main/docs/if_else.md)
+### [While loop](https://github.com/gaberingo/dasarRust/blob/main/docs/while.md)
