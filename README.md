@@ -11,3 +11,4 @@ Repo ini dibuat untuk membantu penulis mempelajari dasar dasar Pemrograman Rust
 ### [If, Else If, Else](https://github.com/gaberingo/dasarRust/blob/main/docs/if_else.md)
 ### [While loop](https://github.com/gaberingo/dasarRust/blob/main/docs/while.md)
 ### [loop, continue, break, label](https://github.com/gaberingo/dasarRust/blob/main/docs/loop.md)
+### [For loop](https://github.com/gaberingo/dasarRust/blob/main/docs/forloop.md)
