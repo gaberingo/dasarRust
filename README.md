@@ -13,3 +13,4 @@ Repo ini dibuat untuk membantu penulis mempelajari dasar dasar Pemrograman Rust
 ### [loop, continue, break, label](https://github.com/gaberingo/dasarRust/blob/main/docs/loop.md)
 ### [For loop](https://github.com/gaberingo/dasarRust/blob/main/docs/forloop.md)
 ### [Array](https://github.com/gaberingo/dasarRust/blob/main/docs/array.md)
+### [Slice](https://github.com/gaberingo/dasarRust/blob/main/docs/slice.md)
