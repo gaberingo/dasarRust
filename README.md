@@ -14,3 +14,4 @@ Repo ini dibuat untuk membantu penulis mempelajari dasar dasar Pemrograman Rust
 ### [For loop](https://github.com/gaberingo/dasarRust/blob/main/docs/forloop.md)
 ### [Array](https://github.com/gaberingo/dasarRust/blob/main/docs/array.md)
 ### [Slice](https://github.com/gaberingo/dasarRust/blob/main/docs/slice.md)
+### [Tuple](https://github.com/gaberingo/dasarRust/blob/main/docs/tuple.md)
