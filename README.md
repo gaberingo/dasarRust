@@ -15,3 +15,4 @@ Repo ini dibuat untuk membantu penulis mempelajari dasar dasar Pemrograman Rust
 ### [Array](https://github.com/gaberingo/dasarRust/blob/main/docs/array.md)
 ### [Slice](https://github.com/gaberingo/dasarRust/blob/main/docs/slice.md)
 ### [Tuple](https://github.com/gaberingo/dasarRust/blob/main/docs/tuple.md)
+### [Vector](https://github.com/gaberingo/dasarRust/blob/main/docs/vector.md)
